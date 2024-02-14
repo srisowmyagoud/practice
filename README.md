@@ -47,8 +47,8 @@
 <body>
     <div class="container">
         <h1>Happy Valentine's Day!</h1>
-        <p>Wishing you a day filled with love and joy.</p>
-        <p><span class="heart">❤️</span> Your Name</p>
+        <p>Wishing you a day filled with love and joy.Thanks for choosing me.Thank you for your continuous support and for being with me in my ups and downs.I love You Kanna</p>
+        <p><span class="heart">❤️</span> Sri Sowmya</p>
         <img src="maxresdefault.jpg" alt="Valentine's Day Image">
     </div>
 </body>
